@@ -15,8 +15,8 @@ run.py is responsible for running the training/validation/testing
 
 **Sample Command**
 
-'''
+```
 python run.py --model=InterPosBM --dataset=dataset_name --config=path/to/config
 
-'''
+```
     
